@@ -1,0 +1,27 @@
+theme: jekyll-theme-minimal
+
+title: Apptivo CRM Offline Simulator
+description: >-
+  An offline, browser-based simulator for the Apptivo Business CRM.
+  Explore CRM, Projects, Invoicing, and more without an internet connection.
+  Perfect for training, demos, and educational purposes.
+logo: /assets/images/logo.png
+
+# SEO Plugin
+plugins:
+  - jekyll-seo-tag
+
+# SEO settings
+seo:
+  title: Apptivo CRM Offline Simulator | Offline Business Tool
+  description: >-
+    Download the Apptivo CRM offline demo. A project management and invoice tool mockup.
+    Explore an Apptivo UI clone for training and support desk simulation without a cloud login.
+  image: /assets/images/social-preview.png
+  twitter:
+    card: summary_large_image
+    username: Apptivo
+  social:
+    name: Apptivo CRM Offline Simulator
+    links:
+      - https://github.com/Apptivo-Offline-Business-CRM-Simulator/apptivo-crm-offline-simulator 
